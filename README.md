@@ -1,5 +1,6 @@
 <h1 >Hola, soy Rafael Barreiro</h1>
 
+
 <h3 >Quien soy?</h3>
 
 <em>Soy <b>Profesor de Matemáticas</b> y <b>Desarrollador Web Full Stack.</b> </em>
@@ -58,3 +59,8 @@ Algunas de ellas son:
 <li>Flexibilidad </li>
 <li>Aprendizaje COntinuo </li>
 </ul>
+
+
+Contactame:
+<br> </br>
+<a href="https://www.linkedin.com/in/rafael84barreiro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
