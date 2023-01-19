@@ -49,7 +49,7 @@ El Bootcamp de <b>SoyHenry</b> me permitió conocer y aplicar las siguientes tec
 <hr>
 <h3 >Mis Soft-skills</h3>
 
-Me creo muy seguro de mis soft skills, por el estudio pedagógico realizado a lo largo de mi preparación como Profesor, como también el desenvolvimiento ante distintas situaciones y personas en base a los años de atención al público que poseo de experiencia.
+Por el estudio pedagógico realizado a lo largo de mi preparación como Profesor, como también el desenvolvimiento ante distintas situaciones y personas en base a los años de atención al público que poseo de experiencia.
 Algunas de ellas son:
 <ul>
 <li>Pedagogía de la Enseñanza </li>
